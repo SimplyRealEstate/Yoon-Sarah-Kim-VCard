@@ -125,6 +125,9 @@ body{
     text-align: end;
     overflow: visible;
     white-space: nowrap;
+    position: absolute;
+    right: 0;
+    top: clamp(15px, 4.5vw, 20px);
 }
 
 .card-body .contact{
