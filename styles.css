@@ -124,6 +124,7 @@ body{
     font-weight: 800;
     text-align: end;
     overflow: visible;
+    white-space: nowrap;
 }
 
 .card-body .contact{
