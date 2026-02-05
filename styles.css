@@ -107,6 +107,7 @@ body{
     left: clamp(150px, 45vw, 200px);
     position: relative;
     padding-bottom: clamp(15px, 4.5vw, 20px);
+    overflow: visible;
 }
 .card-body .bio .realtor{
     padding-top: clamp(11.25px, 3.375vw, 15px);
@@ -122,6 +123,7 @@ body{
     font-size: clamp(18.75px, 5.625vw, 25px);
     font-weight: 800;
     text-align: end;
+    overflow: visible;
 }
 
 .card-body .contact{
