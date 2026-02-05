@@ -122,12 +122,9 @@ body{
     color: var(--dark-blue);
     font-size: clamp(18.75px, 5.625vw, 25px);
     font-weight: 800;
-    text-align: end;
+    text-align: right;
     overflow: visible;
     white-space: nowrap;
-    position: absolute;
-    right: 0;
-    top: clamp(15px, 4.5vw, 20px);
 }
 
 .card-body .contact{
