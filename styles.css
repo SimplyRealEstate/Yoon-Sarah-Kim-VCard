@@ -119,7 +119,7 @@ body{
     width: clamp(127.5px, 38.25vw, 170px);
     height: clamp(22.5px, 6.75vw, 30px);
     color: var(--dark-blue);
-    font-size: clamp(18.75px, 5.625vw, 25px);
+    font-size: clamp(17.25px, 5.625vw, 23px);
     font-weight: 800;
     text-align: end;
     white-space: nowrap;
